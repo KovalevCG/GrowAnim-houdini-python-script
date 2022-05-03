@@ -1,3 +1,5 @@
+![Building Animation](https://github.com/KovalevCG/GrowAnim-houdini-python-script/blob/main/img/AnimV2_2.gif?raw=true)
+
 # GrowAnim 0.1 Houdini python script
 Script for animation of 3D models.
 
